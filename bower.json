@@ -1,6 +1,6 @@
 {
   "name": "datatables-plugins-bootstrap3",
-  "version": "0.1.3",
+  "version": "0.1.6",
   "author": "Anish Shah <anish03shah@gmail.com>",
   "main": "dist/js/datatables-plugins-bootstrap3.js",
   "ignore": [
