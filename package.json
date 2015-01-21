@@ -19,8 +19,8 @@
     "node": ">=0.10.30"
   },
   "dependencies": {
-    "bootstrap": "3.3.x",
-    "components-font-awesome": "4.2.x",
-    "datatables": "1.10.x"
+    "bootstrap": "3.3.2",
+    "font-awesome": "4.2.0",
+    "datatables": "1.10.5-dev"
   }
 }
