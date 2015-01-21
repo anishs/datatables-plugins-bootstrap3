@@ -1,0 +1,26 @@
+{
+  "name": "datatables-plugins-bootstrap3",
+  "description": "jQuery DataTables plugin and Bootstrap 3 integration",
+  "version": "0.1.0",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/anishs/datatables-plugins-bootstrap3/raw/master/LICENSE"
+    }
+  ],
+  "repository": "git://github.com/anishs/datatables-plugins-bootstrap3",
+  "main": "media/js/datatables-plugins-bootstrap3.js",
+  "keywords": [
+    "datatables",
+    "bootstrap",
+    "plugins"
+  ],
+  "engines": {
+    "node": ">=0.10.30"
+  },
+  "dependencies": {
+    "bootstrap": "3.3.x",
+    "components-font-awesome": "4.2.x",
+    "datatables": "1.10.x"
+  }
+}
