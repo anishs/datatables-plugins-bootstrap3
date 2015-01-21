@@ -9,7 +9,7 @@
     }
   ],
   "repository": "git://github.com/anishs/datatables-plugins-bootstrap3",
-  "main": "media/js/datatables-plugins-bootstrap3.js",
+  "main": "dist/js/datatables-plugins-bootstrap3.js",
   "keywords": [
     "datatables",
     "bootstrap",
